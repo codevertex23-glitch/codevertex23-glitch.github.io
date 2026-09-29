@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codevertex23-glitch.github.io/sitemap.xml
